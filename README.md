@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="40" alt="HTML" hspace="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="30" height="40" alt="MySQL" hspace="10" />
   
-</p>### Softwares ⭐
+</p> Most Used Softwares ⭐
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30" height="40" alt="Visual Studio" hspace="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" width="30" height="40" alt="IntelliJ IDEA" hspace="10" />
