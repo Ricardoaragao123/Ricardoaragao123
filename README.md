@@ -6,7 +6,7 @@
 - 🌱 I’m currently doing more Projects
 - 🤔 I’m looking to learn more 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoaragao123&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=ricardoaragao123&show_icons=true&theme=dark)
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](riririca.ra@gmail.com)
